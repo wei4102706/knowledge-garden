@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "1aa82d179983bbed",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcb954e514ea982e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c13853a4c773c05c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure/RESTful API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe1740aa20c8deba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/使用Retrofit與API連線.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3588c9d64ce46e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java泛型中的各标记符含义.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "478889b750fc094f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fda541cd9bf97dfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79809517faa6ddca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c380402331738498",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bcdf73b590baa38a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba239a85443c94f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2349a002a84610b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "461ad615a9cef068",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Android/使用Retrofit與API連線.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f481c57f666ec438",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Android/使用Retrofit與API連線.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "691abeb00489b8ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3e09809d901b02e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Android/使用Retrofit與API連線.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fe1740aa20c8deba",
+  "lastOpenFiles": [
+    "Data Structure/RESTful API.md",
+    "Android/使用Retrofit與API連線.md",
+    "Java/Java泛型中的各标记符含义.md",
+    "Java",
+    "Android",
+    "AI",
+    "Computer Security",
+    "Operating System",
+    "Data Structure",
+    "EE"
+  ]
+}
