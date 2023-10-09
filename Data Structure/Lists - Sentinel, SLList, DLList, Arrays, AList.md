@@ -38,3 +38,9 @@ public void addLast(int x) {
 	p.next = new IntNode(x, null); 
 }
 ```
+
+### Strategies: 
+ #### Two sentinel topology 
+ Circular sentinel topology
+  [two sentinel topology](https://docs.google.com/presentation/d/1suIeJ1SIGxoNDT8enLwsSrMxcw4JTvJBsMcdARpqQCk/pub?start=false&loop=false&delayms=3000&slide=id.g829fe3f43_0_291), and [circular sentinel topology](https://docs.google.com/presentation/d/1suIeJ1SIGxoNDT8enLwsSrMxcw4JTvJBsMcdARpqQCk/pub?start=false&loop=false&delayms=3000&slide=id.g829fe3f43_0_376)
+  

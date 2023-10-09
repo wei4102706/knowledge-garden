@@ -3,6 +3,11 @@
 2. Visual Studio Code
 3. IntelliJ
 
+## Shell
+- Oh My Zsh
+https://ohmyz.sh/
+![[截圖 2023-10-08 下午4.36.11.png]]
+
 ## Configure Computer
 1. Install Homebrew package manager:
 ```
@@ -28,7 +33,7 @@ java -version
 javac -version
 ```
 
-## Useful IntelliJ Plugins
+## IntelliJ Plugins
 1. Java visualizer
 
 ## GitHub repo
