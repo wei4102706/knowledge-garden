@@ -9,4 +9,3 @@ Any deque implementation must have exactly the following operations:
 - `public T get(int index)`
 
 **Circular ArrayDeque**
-ss
