@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/Setting Up Computer.md",
+                "file": "Others/Computer Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/Setting Up Computer.md",
+                "file": "Others/Computer Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/Git Manual.md",
+                "file": "Data Structure/Deque - Double-ended queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/Git Manual.md",
+                "file": "Data Structure/Deque - Double-ended queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/Git Manual.md",
+                "file": "Data Structure/Deque - Double-ended queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/Git Manual.md"
+                "file": "Data Structure/Deque - Double-ended queue.md"
               }
             }
           }
@@ -221,10 +221,10 @@
   },
   "active": "c0c17f0eaa2669e6",
   "lastOpenFiles": [
+    "Others/Computer Setup.md",
     "Others/Timing and Randomized Comparison Tests.md",
-    "Others/Setting Up Computer.md",
-    "Others/RESTful API.md",
     "Others/Git Manual.md",
+    "Others/RESTful API.md",
     "Data Structure/Deque - Double-ended queue.md",
     "Others/attachments/截圖 2023-10-08 下午4.36.11.png",
     "Data Structure/Lists - Sentinel, SLList, DLList, Arrays, AList.md",
