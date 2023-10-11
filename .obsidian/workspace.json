@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Injection and Reflection.md",
+                "file": "Data Structure/Lists - Sentinel, SLList, DLList, Arrays, AList.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Injection and Reflection.md",
+                "file": "Data Structure/Lists - Sentinel, SLList, DLList, Arrays, AList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Injection and Reflection.md",
+                "file": "Data Structure/Lists - Sentinel, SLList, DLList, Arrays, AList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Injection and Reflection.md"
+                "file": "Data Structure/Lists - Sentinel, SLList, DLList, Arrays, AList.md"
               }
             }
           }
@@ -231,12 +231,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79809517faa6ddca",
+  "active": "792563518ca7eedf",
   "lastOpenFiles": [
-    "README.md",
+    "Git/git stash pop 与git stash apply 的区别.md",
+    "Git/Git Manual.md",
+    "Java/Overriding vs. Overloading.md",
+    "Java/Implement vs. Extend.md",
     "Java/Injection and Reflection.md",
+    "README.md",
     "Untitled.canvas",
-    "Others/Git Manual.md",
     "Others/Computer Setup.md",
     "Data Structure/Lists - Sentinel, SLList, DLList, Arrays, AList.md",
     "Data Structure/Deque - Double-ended queue.md",
@@ -247,7 +250,6 @@
     "Android/使用Retrofit與API連線.md",
     "Others/RESTful API.md",
     "Others/Timing and Randomized Comparison Tests.md",
-    "Java/Java Overloading.md",
     "Java/Java泛型中的各标记符含义.md",
     "Java/Style Convention.md",
     "2023-10-11.md",
@@ -260,6 +262,6 @@
     "Computer Security",
     "Operating System",
     "Data Structure",
-    "EE"
+    "Git"
   ]
 }
