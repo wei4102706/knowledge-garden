@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Higher-Order Functions.md",
+                "file": "Git/Git Manual.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Higher-Order Functions.md",
+                "file": "Git/Git Manual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Higher-Order Functions.md",
+                "file": "Git/Git Manual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Higher-Order Functions.md"
+                "file": "Git/Git Manual.md"
               }
             }
           }
@@ -233,8 +233,8 @@
   },
   "active": "792563518ca7eedf",
   "lastOpenFiles": [
-    "Java/Throwing Exceptions.md",
     "Java/Higher-Order Functions.md",
+    "Java/Throwing Exceptions.md",
     "Java/Comparable vs. Comparator.md",
     "Java/Implement vs. Extend.md",
     "Data Structure/Lists - Sentinel, SLList, DLList, Arrays, AList.md",
