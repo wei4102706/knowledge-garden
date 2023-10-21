@@ -59,9 +59,23 @@
             "id": "792563518ca7eedf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Data Structure/image/截圖 2023-10-20 下午8.22.30.png"
+                "file": "Data Structure/Disjoint Sets, Union-Find.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7baae7d1e32e7628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/ADT, Interface.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -102,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/image/截圖 2023-10-20 下午8.22.30.png",
+                "file": "Java/ADT, Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure/image/截圖 2023-10-20 下午8.22.30.png",
+                "file": "Java/ADT, Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure/image/截圖 2023-10-20 下午8.22.30.png"
+                "file": "Java/ADT, Interface.md"
               }
             }
           }
@@ -229,18 +243,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79809517faa6ddca",
+  "active": "7baae7d1e32e7628",
   "lastOpenFiles": [
-    "Data Structure/image",
-    "Data Structure/Union-Find - ListOfSetDS, Quick-Union, Weighted Quick Union.md",
-    "Data Structure/image/截圖 2023-10-20 下午8.24.02.png",
+    "Java/Implement vs. Extend.md",
+    "Java/ADT, Interface.md",
+    "Java/Higher-Order Functions.md",
+    "Java/Comparable vs. Comparator.md",
+    "React/react.md",
+    "Data Structure/Sort.md",
+    "React",
+    "截圖 2023-10-21 下午1.07.46.png",
+    "Data Structure/Binary Search.md",
+    "Data Structure/Runtime.md",
+    "Data Structure/Disjoint Sets, Union-Find.md",
     "Data Structure/image/截圖 2023-10-20 下午8.22.30.png",
+    "Data Structure/image",
+    "Data Structure/image/截圖 2023-10-20 下午8.24.02.png",
     "Data Structure/Lazy Approach, Greedy Approach, Dynamic programming.md",
     "Git/Git Manual.md",
-    "Java/Higher-Order Functions.md",
     "Java/Throwing Exceptions.md",
-    "Java/Comparable vs. Comparator.md",
-    "Java/Implement vs. Extend.md",
     "Data Structure/Lists - Sentinel, SLList, DLList, Arrays, AList.md",
     "Git/git stash pop 与git stash apply 的区别.md",
     "Java/Overriding vs. Overloading.md",
@@ -256,9 +277,6 @@
     "Android/使用Retrofit與API連線.md",
     "Others/RESTful API.md",
     "Others/Timing and Randomized Comparison Tests.md",
-    "Java/Java泛型中的各标记符含义.md",
-    "Java/Style Convention.md",
-    "2023-10-11.md",
     "Others/attachments/截圖 2023-10-08 下午4.36.11.png",
     "Others/attachments",
     "Others",
@@ -267,7 +285,6 @@
     "AI",
     "Computer Security",
     "Operating System",
-    "Data Structure",
-    "Git"
+    "Data Structure"
   ]
 }
